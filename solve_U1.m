@@ -1,3 +1,5 @@
+% All rights reserved: the group of zhanglei，chenyujie & baijin
+% Can mail us : mathcoder@163.com
 function [ U ] = solve_U1( U0, alpha, r, L_t)
 % solve U problem
 const = alpha/r;

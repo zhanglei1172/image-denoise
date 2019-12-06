@@ -1,3 +1,5 @@
+% All rights reserved: the group of zhanglei，chenyujie & baijin
+% Can mail us : mathcoder@163.com
 %%
 clc, clearvars, close all
 %% input 
